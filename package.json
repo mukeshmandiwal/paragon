@@ -84,7 +84,7 @@
     "node-sass": "^4.9.4",
     "postcss-scss": "^2.0.0",
     "react-router-dom": "^4.1.1",
-    "react-test-renderer": "^16.1.0",
+    "react-test-renderer": "^16.6.3",
     "sass-loader": "^6.0.5",
     "semantic-release": "^15.1.7",
     "source-map-loader": "^0.2.1",
