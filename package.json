@@ -86,7 +86,7 @@
     "react-router-dom": "^4.1.1",
     "react-test-renderer": "^16.1.0",
     "sass-loader": "^6.0.5",
-    "semantic-release": "^15.1.7",
+    "semantic-release": "^15.12.1",
     "source-map-loader": "^0.2.1",
     "storybook-readme": "^3.3.0",
     "style-loader": "^0.22.0",
