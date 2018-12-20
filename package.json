@@ -36,7 +36,7 @@
     "mailto-link": "^1.0.0",
     "prop-types": "^15.5.8",
     "react": "^16.7.0",
-    "react-dom": "^16.1.0",
+    "react-dom": "^16.7.0",
     "react-element-proptypes": "^1.0.0",
     "react-proptype-conditional-require": "^1.0.4",
     "react-responsive": "^5.0.0",
