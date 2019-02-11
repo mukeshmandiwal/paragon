@@ -34,7 +34,7 @@
     "email-prop-type": "^1.1.5",
     "font-awesome": "^4.7.0",
     "mailto-link": "^1.0.0",
-    "prop-types": "^15.5.8",
+    "prop-types": "^15.7.1",
     "react": "^16.4.2",
     "react-dom": "^16.1.0",
     "react-element-proptypes": "^1.0.0",
